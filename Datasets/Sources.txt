@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/spsayakpaul/arxiv-paper-abstracts
+https://www.kaggle.com/datasets/saddamazyazy/rekomendasi-jurnal
